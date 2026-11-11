@@ -4,6 +4,8 @@
 
 **Quiet grotesk precision with one loud accent. Engineered for autonomous software development and terminal workflows.**
 
+A Swiss-inspired React, TypeScript, Vite, and Tailwind CSS landing-page concept for developer tools, AI coding tools, and autonomous software platforms.
+
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![React 19](https://img.shields.io/badge/React-19-black?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8%2B-3178c6?logo=typescript)](https://www.typescriptlang.org/)
@@ -12,11 +14,11 @@
 [![X: @milonspace](https://img.shields.io/badge/X-@milonspace-000000?logo=x)](https://x.com/milonspace)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Live Demo](https://github.com/bymilon/swiss-neutral-vektor-studio) · [Report Bug](https://github.com/bymilon/swiss-neutral-vektor-studio/issues) · [Request Feature](https://github.com/bymilon/swiss-neutral-vektor-studio/issues)
+[Report Bug](https://github.com/bymilon/swiss-neutral-vektor-studio/issues) · [Request Feature](https://github.com/bymilon/swiss-neutral-vektor-studio/issues)
 
 <br />
 
-<img src="./src/assets/images/preview_hero_mockup_1794384046488.jpg" alt="Swiss Neutral Vektor Studio Hero Preview" width="100%" style="border-radius: 12px; border: 1px solid #e3e3df;" />
+<img src="./src/assets/images/home.avif" alt="Preview of the Swiss Neutral Vektor Studio landing page for developer tools" width="100%" style="border-radius: 12px; border: 1px solid #e3e3df;" />
 
 </div>
 
@@ -24,7 +26,7 @@
 
 ## Overview
 
-**Swiss Neutral** is a production-grade, highly restrained landing page and design system built for developer tools, autonomous coding runtimes, and engineering platforms. 
+**Swiss Neutral — Vektor Studio** is a React landing page and design-system concept for developer tools, AI coding tools, autonomous coding runtimes, and engineering platforms. Built with TypeScript, Vite, and Tailwind CSS, it combines a restrained Swiss-inspired visual system with interactive product mockups and workflow demonstrations.
 
 Distilled from real redesign iterations, it rejects generic "AI slop" aesthetics—no purple-gradient-on-white clichés, no floating amorphous drop shadows, and no unboxed pill badge clutter. Instead, it pairs near-black **Inter Tight** typography with mid-sentence drops to pale gray, hairline structural dividers, a warm-gray outer page (`#e9e9e6`) housing a single white shell (`#ffffff`), and a single iridescent brand gradient (`#ff5bd6 → #8b5cf6 → #38bdf8`) saved exclusively for moments that matter.
 
