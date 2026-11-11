@@ -1,0 +1,6 @@
+{
+  "name": "Swiss Neutral — Vektor Studio",
+  "description": "Quiet grotesk precision with one loud accent. Engineered landing page for Vektor Studio with living app-window mockup and CSS reveal sweep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
