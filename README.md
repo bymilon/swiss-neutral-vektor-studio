@@ -8,10 +8,15 @@
 [![React 19](https://img.shields.io/badge/React-19-black?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8%2B-3178c6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.3-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-8.3-646cff?logo=vite)](https://vitejs.dev/)
+[![Author: @bymilon](https://img.shields.io/badge/GitHub-@bymilon-161614?logo=github)](https://github.com/bymilon)
+[![X: @milonspace](https://img.shields.io/badge/X-@milonspace-000000?logo=x)](https://x.com/milonspace)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 [Live Demo](https://github.com/bymilon/swiss-neutral-vektor-studio) · [Report Bug](https://github.com/bymilon/swiss-neutral-vektor-studio/issues) · [Request Feature](https://github.com/bymilon/swiss-neutral-vektor-studio/issues)
+
+<br />
+
+<img src="./src/assets/images/preview_hero_mockup_1794384046488.jpg" alt="Swiss Neutral Vektor Studio Hero Preview" width="100%" style="border-radius: 12px; border: 1px solid #e3e3df;" />
 
 </div>
 
@@ -141,6 +146,8 @@ npm run build
 ├── index.html                      # HTML5 entry with Inter Tight font preloads
 ├── package.json                    # Scripts and dependencies
 ├── src/
+│   ├── assets/
+│   │   └── images/                 # High-resolution UI preview screenshots
 │   ├── App.tsx                     # Root page layout, shell & 44px inner rails
 │   ├── index.css                   # Tailwind v4 theme, keyframes & scrollbar
 │   ├── main.tsx                    # React DOM entry point
@@ -176,6 +183,16 @@ For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
+## Author & Connect
+
+Maintained and created by **Milon Biswas**:
+
+- **GitHub**: [@bymilon](https://github.com/bymilon)
+- **X (formerly Twitter)**: [@milonspace](https://x.com/milonspace)
+- **Repository**: [https://github.com/bymilon/swiss-neutral-vektor-studio](https://github.com/bymilon/swiss-neutral-vektor-studio)
+
+---
+
 ## License
 
 Distributed under the **Apache-2.0 License**. See [LICENSE](./LICENSE) for more information.
@@ -183,5 +200,5 @@ Distributed under the **Apache-2.0 License**. See [LICENSE](./LICENSE) for more 
 ---
 
 <div align="center">
-Built with precision · Inter Tight 600 / -.045em
+Built with precision · Inter Tight 600 / -.045em · by <a href="https://github.com/bymilon">@bymilon</a>
 </div>
